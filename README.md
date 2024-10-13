@@ -1,6 +1,6 @@
 # Panoramas
 
-- [Castelo de Vide](https://maps.app.goo.gl/tFcQ4XFoDfWT5ooq8)
+- [Castelo de Vide](https://maps.app.goo.gl/XcLBYvt8QNZc3f9u9)
 - [Alcochete - Ribeira das Enguias](https://maps.app.goo.gl/qspBsQT66YiPksea9)
 - [Poço da Broca](https://maps.app.goo.gl/X3dW71AdM3PxNoRE6)
 - [Foz d'Égua](https://maps.app.goo.gl/85FNNjd2jLiVrnpB7)
@@ -50,3 +50,13 @@
 - [Miradouro da Cruz Salvé Rainha, Montejunto, Cadaval](https://maps.app.goo.gl/K1NtamysAYgoXxcn7)
 - [Cabeço de Montachique, Loures - Outeiro](https://maps.app.goo.gl/PoeZWgosUcYTofaz8)
 - [Miradouro do Cabeço de Montachique, Loures](https://maps.app.goo.gl/822k2ZaswF8y4SDL8)
+- [Torre de Belém, Lisboa](https://maps.app.goo.gl/sd78vQhZsJFaSgMN6)
+- [Padrão dos Descobrimentos, Lisboa](https://maps.app.goo.gl/MPgGWXrMvZYEX6xG8)
+- [Fonte Monumental, Belém, Lisboa](https://maps.app.goo.gl/1ADofXyZeWWJ1uV18)
+- [Mosteiro de Alcobaça](https://maps.app.goo.gl/KLDKEbumzFcXnqzo6)
+- [Castelo de Porto de Mós](https://maps.app.goo.gl/Y1Zz3BhhcsvwGUqQ7)
+- [Castelo de Óbidos](https://maps.app.goo.gl/vi9seMfN2PoNV3GbA)
+- [Quinta do Pisão, Cascais](https://maps.app.goo.gl/A5GBZy4BUcSdUrdc7)
+- [Catedral de Évora](https://maps.app.goo.gl/fUyR33PfaQEpzrzm8)
+- [Alqueva, Mourão - Pôr do sol](https://maps.app.goo.gl/4UDPEPhVqUhKTNXT9)
+- [Herdade do Vau, Beja](https://maps.app.goo.gl/8giFxrB59hWNYGCN6)
