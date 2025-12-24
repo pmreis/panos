@@ -163,3 +163,4 @@
 - [Quinta da Cardiga, Golegã](https://maps.app.goo.gl/hWnmz8vodgfkbErP7)
 - [Castelo de Linhares da Beira, Celorico da Beira](https://maps.app.goo.gl/xnEhEEMCwSpCd42f7)
 - [Linhares da Beira, Celorico da Beira](https://maps.app.goo.gl/SH1EDgmw8oviURpv9)
+- [Castelo Mendo, Almeida](https://maps.app.goo.gl/ZxCFa3U6Q5omtTMu6)
