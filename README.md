@@ -160,7 +160,6 @@
 - [Porto Dinheiro, Lourinhã](https://maps.app.goo.gl/VxkkRPV83CibomTg7)
 - [Alto de São Bento, Évora](https://maps.app.goo.gl/5dAxjH2LpX3gfzSZ7)
 - [Quinta da Cardiga, Golegã](https://maps.app.goo.gl/hWnmz8vodgfkbErP7)
-- [Quinta da Cardiga, Golegã](https://maps.app.goo.gl/hWnmz8vodgfkbErP7)
 - [Castelo de Linhares da Beira, Celorico da Beira](https://maps.app.goo.gl/xnEhEEMCwSpCd42f7)
 - [Linhares da Beira, Celorico da Beira](https://maps.app.goo.gl/SH1EDgmw8oviURpv9)
 - [Castelo Mendo, Almeida](https://maps.app.goo.gl/ZxCFa3U6Q5omtTMu6)
