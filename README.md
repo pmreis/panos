@@ -163,5 +163,5 @@
 - [Castelo de Linhares da Beira, Celorico da Beira](https://maps.app.goo.gl/b3MkKcS5KcDBfh3s8)
 - [Linhares da Beira, Celorico da Beira](https://maps.app.goo.gl/csRcm8LzzTFrcfFTA)
 - [Castelo Mendo, Almeida](https://maps.app.goo.gl/ZxCFa3U6Q5omtTMu6)
-- [Ponte da Ajuda, Elvas](https://maps.app.goo.gl/gvNXVXrDzoSviTe79)
+- [Ponte da Ajuda, Elvas](https://maps.app.goo.gl/6Ba9H49yeiAp6KpZ8)
 - [Miradouro do Pontal, Alcoutim](https://maps.app.goo.gl/9tnPMWq3zA9N2YYK8)
