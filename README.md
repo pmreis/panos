@@ -165,3 +165,4 @@
 - [Castelo Mendo, Almeida](https://maps.app.goo.gl/ZxCFa3U6Q5omtTMu6)
 - [Ponte da Ajuda, Elvas](https://maps.app.goo.gl/6Ba9H49yeiAp6KpZ8)
 - [Miradouro do Pontal, Alcoutim](https://maps.app.goo.gl/CWYVQ1zqJPrhTB198)
+- [Castelo de Montemor-o-Velho, Montemor-o-Velho](https://maps.app.goo.gl/Y47iYBsfN677bUXw7)
