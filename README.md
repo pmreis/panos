@@ -62,7 +62,7 @@
 - [Herdade do Vau, Beja](https://maps.app.goo.gl/8giFxrB59hWNYGCN6)
 - [Castelo de Noudar, Barrancos](https://maps.app.goo.gl/mYK3ZiCJdbUNYt2g9)
 - [Villa Romana de Pisões, Beja](https://maps.app.goo.gl/gN2kaLU6NjknUJyBA)
-- [Alqueva 2, Mourão - Pôr do sol](https://maps.app.goo.gl/4UDPEPhVqUhKTNXT9)
+- [Alqueva 2, Mourão - Pôr do sol](https://maps.app.goo.gl/FXeP1zYgxteqAYHNA)
 - [Castelo Novo, Fundão](https://maps.app.goo.gl/GmDKUUYL61P8GEAa6)
 - [Belmonte](https://maps.app.goo.gl/hMrDfbesw8ozUuGr5)
 - [Penhas Douradas, Manteigas](https://maps.app.goo.gl/8icYZYoHv24oA7wG7)
