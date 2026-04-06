@@ -36,7 +36,7 @@
 - [Lagoa das Sete Cidades, São Miguel, Açores](https://maps.app.goo.gl/BVfVYUT1ipkVdk316)
 - [Capela de Nossa Senhora das Vitórias, São Miguel, Açores](https://maps.app.goo.gl/E75cNaYf6riicp289)
 - [Caldeiras, São Miguel, Açores](https://maps.app.goo.gl/uoWsAjyzFYARxUc9A)
-- [Miradouro da Boca do Inferno, São Miguel, Açores](https://maps.app.goo.gl/VVxe9qgqYYNV6n7E7)
+- [Miradouro da Grota do Inferno, São Miguel, Açores](https://maps.app.goo.gl/hR6aQ82DdVV8yge49)
 - [Fumarolas Lagoa das Furnas, São Miguel, Açores](https://maps.app.goo.gl/xZi3kWRcj6MVGQgEA)
 - [Miradouro da Nossa Senhora da Paz, São Miguel, Açores](https://maps.app.goo.gl/TWAnLT8ou36ByuRD9)
 - [Montebelo Aguieira, Mortágua](https://maps.app.goo.gl/f725sJXkDPaFeVX88)
