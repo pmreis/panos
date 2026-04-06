@@ -30,7 +30,7 @@
 - [Acesso à Praia do Giribeto, Sintra](https://maps.app.goo.gl/q4kheWn8bH4qYcfx5)
 - [Palácio Nacional de Sintra](https://maps.app.goo.gl/B72J6HfV4sk75QVv7)
 - [Póvoa da Isenta, Santarém](https://maps.app.goo.gl/9Wcm5MtmUMfbY3896)
-- [Monsanto, Idanha-a-Nova](https://maps.app.goo.gl/NzcXhsGxHXwhCG4z8)
+- [Castelo de Monsanto, Idanha-a-Nova](https://maps.app.goo.gl/6rgycrj52jXDj6c59)
 - [Forte de Nossa Senhora da Graça, Elvas](https://maps.app.goo.gl/bviKw5TshLVfFoTK8)
 - [Barragem de Montargil, Ponte de Sôr](https://maps.app.goo.gl/knqcwd7gf556rejX8)
 - [Lagoa das Sete Cidades, São Miguel, Açores](https://maps.app.goo.gl/BVfVYUT1ipkVdk316)
