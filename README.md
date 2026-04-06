@@ -78,6 +78,7 @@
 - [Anta de Adrenunes, Sintra](https://maps.app.goo.gl/Gggu5EVzdtWmaJjd8)
 - [Monte Bom, Mafra](https://maps.app.goo.gl/6aShwFjuD9hHzbY3A)
 - [Casal do Falcão, Sintra (prox Loures)](https://maps.app.goo.gl/FKetAgTH6qopVq9W7)
+- [Aldeia de Broas, Mafra](https://maps.app.goo.gl/a51TeTBqu7N9buHQ9)
 - [Aldeia Museu José Franco, Mafra](https://maps.app.goo.gl/7UPc8poFFAygnX5Z6)
 - [Terroal, Mafra](https://maps.app.goo.gl/hXNi4NFeYTD7Dzu77)
 - [Mirador de Santa Catalina, Llanes](https://maps.app.goo.gl/b33jkDqWzVAqFihGA)
