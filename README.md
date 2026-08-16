@@ -111,7 +111,7 @@
 - [Estorãos, Ponte de Lima](https://maps.app.goo.gl/HQEH1Wc8KJzaq1te6)
 - [Arrábida (Convento e Portinho), Setúbal](https://maps.app.goo.gl/Vxf1jUmeoV1WxLet6)
 - [Santuário de Nossa Senhora dos Milagres, Torres Vedras (prox Sobral de Monte Agraço)](https://maps.app.goo.gl/ax2HoXDmqtCpYJNR7)
-- [Vale de Figueira, Mafra)](https://maps.app.goo.gl/4BR9usiUwHVTnBf36)
+- [Vale de Figueira, Mafra](https://maps.app.goo.gl/XJ1Xmyhksv6WVmsD6)
 - [Igreja Nova, Mafra](https://maps.app.goo.gl/2QSdc3pchFLU9ZaJ8)
 - [Manique do Intendente, Azambuja](https://maps.app.goo.gl/QNcSPxyZLFT2CGC68)
 - [Aqueduto do Alviela, Casais de Santa Maria, Santarém](https://maps.app.goo.gl/9MCe8MQYR5Dckww16)
