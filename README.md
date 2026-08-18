@@ -156,7 +156,7 @@
 - [Dornes, Ferreira do Zêzere (prox Sertã)](https://maps.app.goo.gl/SDW357TbD9Eky8SUA)
 - [Tomar](https://maps.app.goo.gl/HiJ1yi7WZjXeqjvH6)
 - [Drave, Arouca](https://maps.app.goo.gl/rehotjpswrmg6RaV8)
-- [Portugal's #1 Tesla Supercharger, Ourém](https://maps.app.goo.gl/G67ikhwaWQQprUMCA)
+- [Portugal's #1 Tesla Supercharger - Fátima, Ourém](https://maps.app.goo.gl/G67ikhwaWQQprUMCA)
 - [Ermida de Nossa Senhora da Penha, Castelo de Vide](https://maps.app.goo.gl/cnuioDXfUrmxdQwA9)
 - [Porto Dinheiro, Lourinhã](https://maps.app.goo.gl/VxkkRPV83CibomTg7)
 - [Alto de São Bento, Évora](https://maps.app.goo.gl/5dAxjH2LpX3gfzSZ7)
